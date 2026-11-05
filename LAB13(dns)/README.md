@@ -44,4 +44,3 @@ The DNS procedure states that the host name resolves to `192.168.1.100`. The rep
 - Test name resolution by hostname.
 - Identify inconsistencies between a procedure and unrelated report text.
 
-**Supporting practicals:** [`lab13.docx`](./lab13.docx) and [`lab13.pdf`](./lab13.pdf). The folder also contains [`lab10.pdf`](./lab10.pdf), which is an HTTP report rather than a DNS report.
