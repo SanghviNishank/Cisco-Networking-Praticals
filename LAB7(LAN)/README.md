@@ -42,4 +42,3 @@ The report claims successful client access to the server. Its router-related obj
 - Understand the role of a default gateway.
 - Verify client-server access using the method configured in the practical.
 
-**Supporting practicals:** [`LAB7.docx`](./LAB7.docx) and [`lab7.pdf`](./lab7.pdf).
