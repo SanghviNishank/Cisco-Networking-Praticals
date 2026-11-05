@@ -42,4 +42,4 @@ The report states that communication between the computers completed successfull
 - Apply static addressing to devices on a local network.
 - Inspect message delivery in Simulation Mode.
 
-**Supporting practical:** [`LAB1.docx`](./LAB1.docx).
+
