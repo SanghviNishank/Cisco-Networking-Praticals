@@ -47,4 +47,3 @@ The report concludes that end-to-end communication was verified using ping/ICMP 
 - Interpret routing information with `show ip route` and `show ip protocols`.
 - Test connectivity across multiple routed networks.
 
-**Supporting practicals:** [`dcn lab 10 (1).docx`](./dcn%20lab%2010%20%281%29.docx) and [`dcn lab 10.pdf`](./dcn%20lab%2010.pdf).
