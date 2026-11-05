@@ -42,4 +42,4 @@ The practical report claims successful communication and describes the expected 
 - Verify connectivity with ping and Packet Tracer Simulation Mode.
 - Relate topology structure to the scope of a link failure.
 
-**Supporting practicals:** [`LAB4.docx`](./LAB4.docx) and [`lab4.pdf`](./lab4.pdf).
+
