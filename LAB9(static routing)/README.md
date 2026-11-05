@@ -42,4 +42,4 @@ The reports describe successful inter-subnet communication after configuring the
 - Configure hosts and gateways for remote-network access.
 - Verify forwarding between subnets using packet analysis.
 
-**Supporting practicals:** [`LAB9.docx`](./LAB9.docx) and [`lab9.pdf`](./lab9.pdf).
+
