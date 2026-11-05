@@ -45,5 +45,3 @@ The report presents DNS resolution/testing as the practical outcome. It does not
 - Observe DNS traffic in Packet Tracer Simulation Mode.
 - Distinguish name resolution from delivery of an HTTP web page.
 - Identify missing implementation details when a practical title and procedure differ.
-
-**Supporting practicals:** [`LAB10.docx`](./LAB10.docx) and [`lab14.pdf`](./lab14.pdf).
