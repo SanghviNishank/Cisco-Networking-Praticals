@@ -42,4 +42,3 @@ The report states that the domain name resolved to its corresponding IP address 
 - Observe DNS-related packet exchange in Simulation Mode.
 - Recognize why numeric service settings must be confirmed from the actual practical.
 
-**Supporting practicals:** [`LAB6.docx`](./LAB6.docx) and [`LAB6.pdf`](./LAB6.pdf).
