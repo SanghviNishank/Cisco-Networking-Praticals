@@ -42,4 +42,3 @@ The procedure's success criterion is a page successfully displayed in the PC bro
 - Configure same-network client/server addressing.
 - Verify an application service using a web browser.
 
-**Supporting practicals:** [`lab12.docx`](./lab12.docx), [`LAB12.pdf`](./LAB12.pdf), and [`LAB11.pdf`](./LAB11.pdf). `LAB11.pdf` also describes HTTP but labels the report as Experiment 10.
