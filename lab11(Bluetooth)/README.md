@@ -42,4 +42,3 @@ The report illustrates a music player with speaker state shown as OFF and ON and
 - Recognize range and connection state as factors in wireless pairing.
 - Verify a device connection through an application-level action.
 
-**Supporting practicals:** [`LAB12.docx`](./LAB12.docx) and [`lab11.pdf`](./lab11.pdf). The document filename is `LAB12.docx`, while its content identifies Experiment 11.
