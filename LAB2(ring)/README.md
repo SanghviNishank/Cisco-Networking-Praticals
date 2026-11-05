@@ -42,4 +42,4 @@ The reports state that the computers communicated and that the described single-
 - Observe packet/message movement in Simulation Mode.
 - Relate a network failure to the availability of alternate paths.
 
-**Supporting practicals:** [`LAB2.docx`](./LAB2.docx) and [`lab2.pdf`](./lab2.pdf).
+
