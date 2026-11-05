@@ -42,4 +42,3 @@ The report claims successful communication for the hybrid practicals. The detail
 - Configure static addressing and observe end-to-end traffic.
 - Compare flexibility with the added complexity of a hybrid layout.
 
-**Supporting practicals:** [`LAB5.docx`](./LAB5.docx) and [`lab5.pdf`](./lab5.pdf).
