@@ -42,4 +42,4 @@ The reports claim successful inter-network communication through router configur
 - Configure host addressing and default gateways in a routed topology.
 - Identify why complete route and WAN addressing details matter for reproducibility.
 
-**Supporting practicals:** [`LAB8.docx`](./LAB8.docx) and [`lab8.pdf`](./lab8.pdf).
+
