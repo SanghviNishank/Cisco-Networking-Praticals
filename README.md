@@ -47,23 +47,20 @@ Existing folder names and practical resources are retained. `.pkt` files are lis
 ```text
 dcnlab/
 ├── README.md
-├── Cover page.docx
-├── INDEX.docx
-├── Lab Manual Format.docx
-├── LAB1(mesh)/                 README.md, LAB1.docx, 3 Packet Tracer files
-├── LAB2(ring)/                 README.md, LAB2.docx, lab2.pdf, 3 Packet Tracer files
-├── LAB3(star)/                 README.md, LAB3.docx, lab3.pdf, 3 Packet Tracer files
-├── LAB4(bus)/                  README.md, LAB4.docx, lab4.pdf, 3 Packet Tracer files
-├── LAB5(hybrid)/               README.md, LAB5.docx, lab5.pdf, 3 Packet Tracer files
-├── LAB6(DNS)/                  README.md, LAB6.docx, LAB6.pdf, 3 Packet Tracer files
-├── LAB7(LAN)/                  README.md, LAB7.docx, lab7.pdf, 3 Packet Tracer files
-├── LAB8(MAN)/                  README.md, LAB8.docx, lab8.pdf, 3 Packet Tracer files
-├── LAB9(static routing)/       README.md, LAB9.docx, lab9.pdf, 3 Packet Tracer files
-├── lab10(dynamic)/             README.md, report DOCX/PDF, dcnLab10.pkt
-├── lab11(Bluetooth)/           README.md, report DOCX/PDF, 2 Packet Tracer files
-├── lab12(http)/                README.md, report DOCX/PDFs, 3 Packet Tracer files
-├── LAB13(dns)/                 README.md, report DOCX/PDFs, 3 Packet Tracer files
-└── lab14(dnshttp)/             README.md, report DOCX/PDF, 4 Packet Tracer files
+├── LAB1(mesh)/                 
+├── LAB2(ring)/               
+├── LAB3(star)/                
+├── LAB4(bus)/                 
+├── LAB5(hybrid)/               
+├── LAB6(DNS)/                 
+├── LAB7(LAN)/                  
+├── LAB8(MAN)/               
+├── LAB9(static routing)/      
+├── lab10(dynamic)/            
+├── lab11(Bluetooth)/          
+├── lab12(http)/               
+├── LAB13(dns)/                 
+└── lab14(dnshttp)/             
 ```
 
 The original documents contain embedded figures, but the experiment folders do not contain standalone screenshot or diagram files. Their individual READMEs link to the supplied source reports where available.
@@ -76,9 +73,6 @@ The original documents contain embedded figures, but the experiment folders do n
 4. Use **Realtime** mode for ordinary interaction or **Simulation** mode to inspect packet/event flow when the practical calls for it.
 5. Repeat only the tests applicable to the experiment, such as a browser request, a ping, or the documented router show commands. Exact settings omitted by the reports should be read from the opened practical rather than guessed.
 
-## Expected learning outcomes
-
-On completing the lab set, students should be able to compare common topologies, distinguish local and routed communication, configure and reason about IPv4 addressing and routing, explain DNS and HTTP client-server behavior, use Bluetooth pairing in a simulated environment, and verify network behavior with Packet Tracer tools.
 
 ## Conclusion
 
